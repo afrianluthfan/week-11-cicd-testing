@@ -8,7 +8,7 @@ public class Counter {
 		this.reset();
 	}
 		
-	public void reset() {
+	public void set_ulang() {
 		count = 0;
 	}
 	
