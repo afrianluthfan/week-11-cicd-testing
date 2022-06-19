@@ -16,14 +16,6 @@
      <maven.compiler.source>1.8</maven.compiler.source>
      <maven.compiler.target>1.8</maven.compiler.target>
  </properties>
-	
-<distributionManagement>
-   <repository>
-     <id>github</id>
-     <name>AFRIAN LUTHFAN</name>
-     <url>https://maven.pkg.github.com/afrianluthfan/week-11-cicd-testing</url>
-   </repository>
-</distributionManagement>
   
 </project>
 
